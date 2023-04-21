@@ -3,6 +3,11 @@
 
 This is a blockchain-based voting system that allows secure and transparent voting using distributed ledger technology. The system uses a smart contract on the Ethereum blockchain to manage the voting process and store the results.
 
+# UseFull Links 
+
+* [Youtube video tutorial Link](https://www.youtube.com/watch?v=p0WN_JsCbsQ)
+* [certificate link](https://www.jetir.org/trackauthorhome.php?a_rid=511960)
+
 # Getting Started
 
 To get started with the system, you will need the following:
@@ -40,10 +45,7 @@ To use the system, follow these steps:
 * Wait for the transaction to be confirmed on the Ethereum blockchain
 *  View the results of the election by querying the smart contract
 
-# UseFull Links 
 
-* [Youtube video tutorial Link](https://www.youtube.com/watch?v=p0WN_JsCbsQ)
-* [certificate link](https://www.jetir.org/trackauthorhome.php?a_rid=511960)
 # Developed by
 
 * Abhinav Nagar
