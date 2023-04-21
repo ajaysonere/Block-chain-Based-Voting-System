@@ -42,8 +42,8 @@ To use the system, follow these steps:
 
 # UseFull Links 
 
-[Youtube video tutorial Link](https://www.youtube.com/watch?v=p0WN_JsCbsQ)
-[certificate link](https://www.jetir.org/trackauthorhome.php?a_rid=511960)
+* [Youtube video tutorial Link](https://www.youtube.com/watch?v=p0WN_JsCbsQ)
+* [certificate link](https://www.jetir.org/trackauthorhome.php?a_rid=511960)
 # Developed by
 
 * Abhinav Nagar
