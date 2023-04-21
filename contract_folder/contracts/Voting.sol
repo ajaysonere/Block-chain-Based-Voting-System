@@ -37,8 +37,8 @@ contract Voting {
 
     function registerCandidates(string memory _name, uint _age, address _candidateAddress) public {
         require(msg.sender == owner, "Only owner can register Candidate!!");
-        require(_candidateAddress != owner, "Owner can not participate!!");
-        require(candidates[_candidateAddress] == 0, "Candidate already registered");
+        // require(_candidateAddress != owner, "Owner can not participate!!");
+        // require(candidates[_candidateAddress] == 0, "Candidate already registered");
         Candidate memory candidate = Candidate({
             name: _name,
             age: _age,

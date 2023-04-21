@@ -40,6 +40,9 @@ To use the system, follow these steps:
 * Wait for the transaction to be confirmed on the Ethereum blockchain
 *  View the results of the election by querying the smart contract
 
+# Video Tutorial
+
+[Youtube Link](https://www.youtube.com/watch?v=p0WN_JsCbsQ)
 # Developed by
 
 * Abhinav Nagar
